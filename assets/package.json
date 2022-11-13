@@ -20,6 +20,6 @@
     "shadow-cljs": "^2.9.8",
     "terser-webpack-plugin": "^1.1.0",
     "webpack": "4.4.0",
-    "webpack-cli": "^3.3.2"
+    "webpack-cli": "^3.3.12"
   }
 }
